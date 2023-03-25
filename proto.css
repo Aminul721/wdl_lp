@@ -1,0 +1,74 @@
+:root {
+    --blackColor:  #000;
+    --blackLightColor: #333333;
+    --blackLightColor2: rgba(51, 51, 51, 0.4);
+    --whileColor: #fff;
+    --yellowColor: #FFB800;
+    --skyColor: #319AE5;
+    --greenColor: #39A54C;
+}
+
+/*----- typegraphy---------*/
+h1{
+    font-size: 45px;
+    line-height: 56px;
+    padding-bottom: 32px;
+}
+h2{
+    font-size: 43px;
+    line-height: 52px;
+    padding-bottom: 28px;
+}
+h3 {
+    font-size: 36px;
+    line-height: 50px;
+    padding-bottom: 25px;
+}
+h4 {
+    font-size: 30px;
+    line-height: 42px;
+    padding-bottom: 20px;
+}
+h5 {
+    font-size: 24px;
+    line-height: 26px;
+    padding-bottom: 18px;
+}
+h6 {
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 16px;
+}
+p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 22px;
+}
+span {
+    font-size: 13.2px;
+    line-height: 21px;
+    display: block;
+    width: max-content;
+    padding-bottom: 16px;
+}
+small {
+    font-size: 12px;
+    line-height: 12px;
+    display: block;
+    width: max-content;
+    padding-bottom: 16px;
+}
+strong {
+    font-size: 20px;
+    line-height: 30px;
+    display: block;
+    width: max-content;
+    padding-bottom: 16px;
+}
+
+ol li,
+ul li {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 22px;
+}
